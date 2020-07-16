@@ -1,0 +1,5 @@
+set x test3
+print x
+set x test3
+print x
+quit

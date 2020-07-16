@@ -1,0 +1,15 @@
+quit 123
+run
+COMP310
+help me
+QUIT
+print z
+set x you cannot handle multiple words.
+print x
+run testfilefake.txt test.txt
+run script
+print
+set x
+set
+set                                      happy                                     50
+print happy
