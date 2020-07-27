@@ -2,6 +2,8 @@
 
 This was a project for "COMP310: Operating systems".
 
+Run on Ubuntu.
+
 In the terminal, run the program as:
 
     ./mykernel
