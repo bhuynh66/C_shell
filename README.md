@@ -14,7 +14,7 @@ In the terminal, run the program as:
  
  Otherwise one can run the program from terminal as follows:
  
-     ./mykernel test_main.txt
+     ./mykernel < test_main.txt
    
 ## Page faulting and Task switch
 
